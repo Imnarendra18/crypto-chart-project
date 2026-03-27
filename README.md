@@ -40,10 +40,6 @@ Included widgets:
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/IDouble/HTML-Crypto-Currency-Chart-Snippets.git
-cd HTML-Crypto-Currency-Chart-Snippets
-```
 
 2. Open any HTML file in your browser, for example:
 
