@@ -89,5 +89,5 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Credits
 
-- Widget technology: TradingView Embed Widgets
-- Original repository: https://github.com/IDouble/HTML-Crypto-Currency-Chart-Snippets
+- Developed by **Narendra Kumar Yadav**
+- Chart powered by TradingView Widgets
