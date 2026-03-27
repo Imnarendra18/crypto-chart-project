@@ -102,7 +102,7 @@
 </div>
 ```
 
-## [💹 Mini Chart 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Mini-Chart)
+## [💹 Mini Chart 💹](https://Imnarendra18.github.io/HTML-Crypto-Currency-Chart-Snippets/Mini-Chart)
 
 ![Crypto Currency Mini Chart Cryptocurrencies TradingView API](Images/Mini-Chart.png)
 
@@ -128,7 +128,7 @@
 </div>
 ```
 
-## [💹 Overview Chart 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Overview-Chart)
+## [💹 Overview Chart 💹](https://Imnarendra18.github.io/HTML-Crypto-Currency-Chart-Snippets/Overview-Chart)14
 
 ![Crypto Currency Overview Chart Cryptocurrencies Chart TradingView API](Images/Overview-Chart.png)
 
@@ -169,7 +169,7 @@
 </div>
 ```
 
-## [💹 Technical Analysis 💹](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Technical-Analysis)
+## [💹 Technical Analysis 💹](https://Imnarebdra18.github.io/HTML-Crypto-Currency-Chart-Snippets/Technical-Analysis)
 
 ![Crypto Currency Technical Analysis Cryptocurrencies Symbol TradingView API](Images/Technical-Analysis.png)
 
@@ -192,7 +192,7 @@
 </div>
 ```
 
-## [💲 Single Ticker 💲](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Single-Ticker)
+## [💲 Single Ticker 💲](https://Imnarendra18.github.io/HTML-Crypto-Currency-Chart-Snippets/Single-Ticker)
 
 ![Crypto Currency Single Ticker Cryptocurrencies Bitcoin TradingView API](Images/Single-Ticker.png)
 
@@ -212,7 +212,7 @@
 </div>
 ```
 
-## [💲 Symbol Info 💲](https://idouble.github.io/HTML-Crypto-Currency-Chart-Snippets/Symbol-Info)
+## [💲 Symbol Info 💲](https://Imnatrendra18.github.io/HTML-Crypto-Currency-Chart-Snippets/Symbol-Info)
 
 ![Crypto Currency Symbol Info Cryptocurrencies IDEX TradingView API](Images/Symbol-Info.png)
 
