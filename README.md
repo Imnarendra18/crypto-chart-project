@@ -1,5 +1,117 @@
-# 💹 HTML Crypto Currency Chart Snippets 💹
-💹 Simple HTML Snippets to create Tickers / Charts of Cryptocurrencies with the TradingView API 💹
+# 🚀 Crypto Chart Web App
+
+<p align="center">
+  📊 Real-time Cryptocurrency Charts using TradingView Widgets  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Imnarendra18/crypto-chart-project?style=social" />
+  <img src="https://img.shields.io/github/forks/Imnarendra18/crypto-chart-project?style=social" />
+  <img src="https://img.shields.io/github/license/Imnarendra18/crypto-chart-project" />
+</p>
+
+---
+
+## 🌐 Live Demo
+
+👉 https://imnarendra18.github.io/crypto-chart-project/
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="screenshots/chart.png" width="80%" alt="Crypto Chart Preview"/>
+</p>
+
+---
+
+## ✨ Features
+
+* 📊 Interactive Crypto Charts
+* ⚡ Real-time Market Data
+* 📈 Technical Analysis Tools
+* 🔄 Multiple Chart Views
+* 📱 Fully Responsive Design
+
+---
+
+## 🧑‍💻 Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* TradingView Embed API
+
+---
+
+## 📁 Project Structure
+
+```
+HTML-Crypto-Currency-Chart-Snippets/
+│── Chart.html
+│── Overview-Chart.html
+│── Mini-Chart.html
+│── Ticker.html
+│── README.md
+```
+
+---
+
+## ⚡ Getting Started
+
+### 🔹 Run Locally
+
+1. Clone repo:
+
+```bash
+git clone https://github.com/Imnarendra18/crypto-chart-project.git
+```
+
+2. Open any file:
+
+```
+Overview-Chart.html
+```
+
+3. Run using Live Server or browser
+
+---
+
+## 📊 Example Symbols
+
+* COINBASE:BTCUSD
+* COINBASE:ETHUSD
+* BINANCE:SOLUSDT
+
+---
+
+## 📝 Notes
+
+* Internet required (uses TradingView CDN)
+* Disable ad-block if charts not loading
+* Refresh page if widget is blank
+
+---
+
+## 🤝 Credits
+
+* 👨‍💻 Developed & Customized by **Narendra Kumar Yadav**
+* 📊 Chart Integration: TradingView Widgets
+* 🔗 Based on open-source implementation
+
+---
+
+## 👨‍💻 Author
+
+**Narendra Kumar Yadav**
+
+---
+
+## ⭐ Support
+
+If you like this project, please ⭐ star the repo!
+
 
 ![Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Stoch RSI](Images/Customizable-Cryptocurrency-Dashboard-with-Chart-Binance.png)
 
@@ -66,10 +178,10 @@
   "locale": "en"
 }
   </script>
-</div>
+</div
 ```
 
-## [💲 Crypto Currency Ticker Tape 💲](https://imnarendra.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker-Tape)
+## [💲 Crypto Currency Ticker Tape 💲](https://Imnarendra18.github.io/HTML-Crypto-Currency-Chart-Snippets/Ticker-Tape)
 
 ![Crypto Currency Ticker Cryptocurrencies Chart TradingView API](Images/Crypto-Currency-Ticker.png)
 
@@ -230,6 +342,10 @@
 }
   </script>
 </div>
-```
+```## Credits
+
+- 👨‍💻 Developed & Customized by **Narendra Kumar Yadav**
+- 📊 Chart powered by TradingView Embed Widgets
+- 🔗 Based on original open-source project
 
 ![Binance Ready to give crypto a try ? buy bitcoin and other cryptocurrencies on binance](Images/binance.jpg)
