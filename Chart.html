@@ -1,4 +1,39 @@
 <!-- TradingView Widget BEGIN -->
+<style>
+  html,
+  body {
+    margin: 0;
+    min-height: 100%;
+    background: radial-gradient(circle at 15% 20%, #1b1a3a 0%, #0a0f1f 45%, #06080f 100%);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .tradingview-widget-container {
+    box-sizing: border-box;
+    min-height: 100vh;
+    padding: 16px 16px 10px;
+    background:
+      radial-gradient(circle at 90% 5%, rgba(255, 0, 128, 0.2), transparent 35%),
+      radial-gradient(circle at 15% 90%, rgba(0, 255, 255, 0.2), transparent 30%);
+  }
+
+  #tradingview_74048 {
+    height: calc(100vh - 54px);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 16px 42px rgba(0, 0, 0, 0.45);
+  }
+
+  .tradingview-widget-copyright {
+    margin-top: 8px;
+    text-align: center;
+    color: #f0f3ff;
+  }
+
+  .tradingview-widget-copyright .blue-text {
+    color: #ffd166 !important;
+  }
+</style>
 <div class="tradingview-widget-container">
   <div id="tradingview_74048"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BITFINEX-IOTUSD/" rel="noopener" target="_blank"><span class="blue-text">IOTUSD Chart</span></a> by TradingView</div>
@@ -13,10 +48,27 @@
   "theme": "Dark",
   "style": "1",
   "locale": "en",
-  "toolbar_bg": "#f1f3f6",
+  "toolbar_bg": "#0f1631",
   "enable_publishing": false,
   "hide_side_toolbar": false,
   "allow_symbol_change": true,
+  "overrides": {
+    "paneProperties.background": "#0b1022",
+    "paneProperties.vertGridProperties.color": "rgba(145, 90, 255, 0.18)",
+    "paneProperties.horzGridProperties.color": "rgba(0, 245, 255, 0.14)",
+    "symbolWatermarkProperties.color": "rgba(255, 255, 255, 0.08)",
+    "mainSeriesProperties.candleStyle.upColor": "#00f5d4",
+    "mainSeriesProperties.candleStyle.downColor": "#ff4d6d",
+    "mainSeriesProperties.candleStyle.borderUpColor": "#00f5d4",
+    "mainSeriesProperties.candleStyle.borderDownColor": "#ff4d6d",
+    "mainSeriesProperties.candleStyle.wickUpColor": "#00e676",
+    "mainSeriesProperties.candleStyle.wickDownColor": "#ff006e"
+  },
+  "studies_overrides": {
+    "rsi.plot.color": "#c77dff",
+    "stoch.k.color": "#4cc9f0",
+    "stoch.d.color": "#ff9e00"
+  },
   "studies": [
     "RSI@tv-basicstudies",
     "StochasticRSI@tv-basicstudies"
